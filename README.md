@@ -1,5 +1,11 @@
 <h2 align="left">Hi 👋! My name is Augustin and I'm French</h2>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Augustin978.Augustin978&"  />
+</div>
+
+###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Augustin978&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
